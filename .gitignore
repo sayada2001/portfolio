@@ -1,0 +1,7 @@
+# Demo/example
+
+*.zip
+*.gz
+assests/videos/
+!assests/videos/tour_*.mp4
+access.log
